@@ -117,7 +117,7 @@ export default function Home() {
               nativeButton={false}
               render={
                 <a
-                  href="https://www.better-auth.com/docs"
+                  href="https://onkark.hashnode.dev/next-js-full-stack-auth-better-auth-drizzle-orm-guide"
                   target="_blank"
                   rel="noreferrer"
                 />
@@ -132,7 +132,7 @@ export default function Home() {
               className="h-11 border-white/15 bg-white/5 px-5 text-white hover:bg-white/10 hover:text-white"
               render={
                 <a
-                  href="https://github.com/better-auth/better-auth"
+                  href="https://github.com/OnkarK0273/next-better-auth-template"
                   target="_blank"
                   rel="noreferrer"
                 />
